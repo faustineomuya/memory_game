@@ -6,10 +6,7 @@ The memory game is a game built to test the players memory and concentration abi
 This project aims to put my CSS, HTML and JS skills to the test by building a fully functional browser based card matching game.
 
 ## How to Play
-* The game's objective is to match all the pairs of cards using minimal number of moves and time.
-
-Click on this link to play the Game: 
-
+The game's objective is to match all the pairs of cards using minimal number of moves and time.
 
 ## How I built the Memory Game
 Starter code was provided to me by Udacity. It was however a static version of the game.
